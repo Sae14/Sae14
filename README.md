@@ -45,7 +45,7 @@
 
 
 
-### En train d'apprendre  
+### Etudie  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/angularjs-original.svg" alt="Angular" height="50" />  
 </div>
