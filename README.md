@@ -1,4 +1,4 @@
-### <div align="center">Bonjour ! Je m'appelle Marion, développeuse web junior en recherche de poste à Toulouse.</div>  
+### <div align="center">Bonjour ! Je m'appelle Marion, développeuse web junior en recherche de poste à Toulouse ou dans toute la France en full remote.</div>  
   
 
 - ⌨️ Je suis actuellement en train de coder mon portfolio, afin de mettre en ligne et de rendre facilement visibles & fonctionnels mes projets réalisés.  
