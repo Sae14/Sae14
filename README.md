@@ -4,7 +4,7 @@
 - ⌨️ Je suis actuellement en train de coder mon portfolio, afin de mettre en ligne et de rendre facilement visibles & fonctionnels mes projets réalisés.  
   
 
-- 🦾 Suite à ma formation, je continue de me former activement & en autonomie. Ma cible actuelle ? Le framework Angular !  
+- 🦾 Suite à ma formation, je continue de me former activement & en autonomie.
   
 
 - 🎯 Apprendre une nouvelle technologie afin de m'adapter aux besoins d'un poste ou d'une mission ne me fait pas peur.  
