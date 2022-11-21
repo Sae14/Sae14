@@ -49,6 +49,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Sae14/Sae14/blob/output/snake.svg" alt="Snake animation" />
-
 ###
