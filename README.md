@@ -1,4 +1,4 @@
-<h2 align="center">Bonjour👋! Je m'appelle Marion et je suis développeuse web junior à Toulouse.</h2>
+<h2 align="center">Bonjour👋! Je m'appelle Marion et je suis développeuse web à Toulouse.</h2>
 
 ###
 
